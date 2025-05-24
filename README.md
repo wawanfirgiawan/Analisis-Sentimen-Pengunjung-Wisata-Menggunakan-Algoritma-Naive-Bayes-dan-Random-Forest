@@ -87,7 +87,7 @@ pip install -r requirements.txt
 
 ### ▶️ Jalankan notebook
 
-Buka `notebooks/naive_bayes_model.ipynb` atau `random_forest_model.ipynb` menggunakan Jupyter Notebook atau Google Colab.
+Buka `Apps-Main/Program.ipynb` menggunakan Jupyter Notebook atau Google Colab.
 
 ---
 
